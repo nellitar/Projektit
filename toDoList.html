@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo-Lista</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .todo-container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            cursor: pointer;
+        }
+
+        .completed {
+            text-decoration: line-through;
+            background-color: gray;
+            text-decoration-color: #fff;
+        }
+
+        .priority-1 {
+            color: red;
+        }
+
+        .priority-2 {
+            color: darkorange;
+        }
+
+        .priority-3 {
+            color: gold;
+        }
+
+        .priority-4 {
+            color: lightgreen;
+        }
+
+        .priority-5 {
+            color: green;
+        }
+
+        .input-group {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            margin-bottom: 5px;
+        }
+
+        .input-group input,
+        .input-group select {
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .error {
+            color: red;
+            font-size: 14px;
+        }
+
+        .btn {
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            border: none;
+        }
+    </style>
+    <script>
+        let tasks = []; // Tallennetaan kaikki tehtävät tässä taulukossa
+        let taskCounter = 1; // Tehtävien juokseva numero
+
+        let currentSort = { field: null, ascending: true }; // Tietoa nykyisestä lajittelujärjestyksestä
+
+        // Funktio lisää uuden tehtävän listaan
+        function addTask() {
+            // Haetaan ja käsitellään lomakkeen tiedot
+            const taskName = document.getElementById("taskName").value.trim();
+            const priority = parseInt(document.getElementById("priority").value);
+            const dueDateInput = document.getElementById("dueDate").value;
+            let dueDate;
+
+            // Jos päivämäärää ei ole asetettu, käytetään huomista päivää
+            if (!dueDateInput) {
+                dueDate = new Date();
+                dueDate.setDate(dueDate.getDate() + 1);
+            } else {
+                dueDate = new Date(dueDateInput);
+            }
+
+            const today = new Date(); // Nykyinen päivä
+            today.setHours(0, 0, 0, 0);
+
+            let isValid = true;
+
+            // Tarkistetaan, että tehtävän nimi on annettu
+            if (!taskName) {
+                document.getElementById("taskError").textContent = "Tehtävän nimi on pakollinen.";
+                isValid = false;
+            } else {
+                document.getElementById("taskError").textContent = "";
+            }
+
+            // Tarkistetaan, että prioriteetti on oikeassa välissä (1-5)
+            if (isNaN(priority) || priority < 1 || priority > 5) {
+                document.getElementById("priorityError").textContent = "Prioriteetti on annettava väliltä 1-5.";
+                isValid = false;
+            } else {
+                document.getElementById("priorityError").textContent = "";
+            }
+
+            // Varmistetaan, ettei tavoitepäivämäärä ole menneisyydessä
+            if (dueDate < today) {
+                document.getElementById("dateError").textContent = "Tavoitepäivämäärä ei voi olla menneisyydessä.";
+                isValid = false;
+            } else {
+                document.getElementById("dateError").textContent = "";
+            }
+
+            // Jos kaikki tiedot ovat oikein, luodaan uusi tehtävä ja lisätään se taulukkoon
+            if (isValid) {
+                const task = {
+                    number: taskCounter++,
+                    task: taskName,
+                    priority: priority,
+                    dueDate: dueDate.toISOString().split("T")[0],
+                    status: "Kesken"
+                };
+
+                tasks.push(task); // Tehtävä lisätään listaan
+                displayTasks(); // Päivitetään näkymä
+
+                // Tyhjennetään lomakekentät
+                document.getElementById("taskName").value = "";
+                document.getElementById("priority").value = "";
+                document.getElementById("dueDate").value = "";
+            }
+        }
+
+        // Näyttää tehtävälistan taulukossa
+        function displayTasks() {
+            const tableBody = document.getElementById("taskTableBody");
+            tableBody.innerHTML = "";
+
+            // Järjestellään tehtävät: keskeneräiset ensin ja valmistuneet loppuun
+            const incompleteTasks = tasks.filter(task => task.status === "Kesken");
+            const completedTasks = tasks.filter(task => task.status === "Valmis");
+
+            // Lisätään keskeneräiset tehtävät ensin
+            incompleteTasks.forEach(task => createTaskRow(task, tableBody));
+
+            // Lisätään lopuksi valmistuneet tehtävät
+            completedTasks.forEach(task => createTaskRow(task, tableBody));
+        }
+
+        // Luo rivin yksittäiselle tehtävälle ja lisää sen taulukon runkoon
+        function createTaskRow(task, tableBody) {
+            const row = document.createElement("tr");
+            row.classList.add(`priority-${task.priority}`);
+            if (task.status === "Valmis") {
+                row.classList.add("completed");
+            }
+
+            // Rakentaa rivin sisällön
+            row.innerHTML = `
+                <td>${task.number}</td>
+                <td>${task.task}</td>
+                <td>${task.priority}</td>
+                <td>${task.dueDate}</td>
+                <td>
+                    ${task.status === "Kesken" ? `<button onclick="completeTask(${task.number})">Kesken</button>` : "Valmis"}
+                </td>
+            `;
+
+            // Lisää rivin taulukon runkoon
+            tableBody.appendChild(row);
+        }
+
+        // Merkitsee tehtävän valmiiksi ja päivittää listan
+        function completeTask(number) {
+            const task = tasks.find(t => t.number === number);
+            if (task && task.status === "Kesken") {
+                task.status = "Valmis";
+                displayTasks(); // Päivittää näkymän, jotta valmistuneet siirtyvät listan loppuun
+            }
+        }
+
+        // Järjestää tehtävät valitun kentän mukaan ja päivittää näkymän
+        function sortTasks(by) {
+            // Jos sama kenttä valittiin uudestaan, käännetään lajittelujärjestys
+            if (currentSort.field === by) {
+                currentSort.ascending = !currentSort.ascending;
+            } else {
+                currentSort.field = by;
+                currentSort.ascending = by !== "priority";
+            }
+
+            // Lajitellaan valitun kentän mukaan ja päivitetään näkymä
+            tasks.sort((a, b) => {
+                let comparison = 0;
+                if (by === "number") comparison = a.number - b.number;
+                if (by === "task") comparison = a.task.localeCompare(b.task);
+                if (by === "priority") comparison = b.priority - a.priority;
+                if (by === "dueDate") comparison = new Date(a.dueDate) - new Date(b.dueDate);
+                return currentSort.ascending ? comparison : -comparison;
+            });
+
+            displayTasks(); // Päivitetään näkymä lajittelun jälkeen
+        }
+    </script>
+</head>
+
+<body>
+    <h1>ToDo-Lista</h1>
+    <p style="text-align: center;">Voit lajitella tehtävät klikkaamalla taulukon otsikkoja</p>
+    <div class="todo-container">
+        <div id="form">
+            <div class="input-group">
+                <label for="taskName">Tehtävän nimi</label>
+                <input type="text" id="taskName">
+                <span id="taskError" class="error"></span>
+            </div>
+            <div class="input-group">
+                <label for="priority">Prioriteetti (1-5)</label>
+                <input type="number" id="priority" min="1" max="5">
+                <span id="priorityError" class="error"></span>
+            </div>
+            <div class="input-group">
+                <label for="dueDate">Tavoitepäivämäärä</label>
+                <input type="date" id="dueDate">
+                <span id="dateError" class="error"></span>
+            </div>
+            <button class="btn" onclick="addTask()">Lisää Tehtävä</button>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th onclick="sortTasks('number')">Numero</th>
+                    <th onclick="sortTasks('task')">Tehtävä</th>
+                    <th onclick="sortTasks('priority')">Prioriteetti</th>
+                    <th onclick="sortTasks('dueDate')">Tavoitepäivämäärä</th>
+                    <th>Tila</th>
+                </tr>
+            </thead>
+            <tbody id="taskTableBody"></tbody>
+        </table>
+    </div>
+</body>
+
+</html>
