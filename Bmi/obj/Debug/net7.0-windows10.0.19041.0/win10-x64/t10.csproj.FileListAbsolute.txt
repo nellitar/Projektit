@@ -1,0 +1,648 @@
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.exe
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.deps.json
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.runtimeconfig.json
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.pdb
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.AssemblyReference.cache
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.AssemblyInfoInputs.cache
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.AssemblyInfo.cs
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.CoreCompileInputs.cache
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.CopyComplete
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\t10.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.pdb
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.genruntimeconfig.cache
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\t10.dll
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tarkiainen\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.exe
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.deps.json
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.runtimeconfig.json
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.pdb
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.2024.26716.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.AssemblyReference.cache
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.AssemblyInfoInputs.cache
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.AssemblyInfo.cs
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.CoreCompileInputs.cache
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.csproj.Up2Date
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\t10.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.pdb
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\t10.genruntimeconfig.cache
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\t10.dll
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Tietotekniikka\Kurssit\Gigantti Cloud\Kurssit\Ohjelmointi 2\t10\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

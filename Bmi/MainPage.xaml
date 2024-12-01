@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="t10.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Label Text="Pituus (m)"></Label>
+            <Entry x:Name="pituus" WidthRequest="200"></Entry>
+            <Label Text="Paino (kg)" ></Label>
+            <Entry x:Name="paino" WidthRequest="200"></Entry>
+            <Button x:Name="CounterBtn" Text="Laske BMI" Clicked="OnCounterClicked" WidthRequest="200" HorizontalOptions="Center"></Button>
+
+            <Grid x:Name="gridi"
+                  RowDefinitions="*,*,*,*,*,*,*,*" ColumnDefinitions="*,*">
+                
+            <Label x:Name ="test" Text="BMI" TextColor="Green" Grid.Row="0" Grid.Column="0" Margin="15"></Label>
+            <Label Text ="kuvaus" TextColor="Green" Grid.Row="0" Grid.Column="1" Margin="15"></Label>
+            <Label Text="alle 17" TextColor="Green" Grid.Row="1" Grid.Column="0" Margin="15"></Label>
+            <Label Text="vaarallinen aliravitsemus" TextColor="Red" Grid.Row="1" Grid.Column="1" Margin="15"></Label>
+            <Label Text="17 - 18,5" TextColor="Green" Grid.Row="2" Grid.Column="0" Margin="15"></Label>
+            <Label Text="liiallinen laihuus" TextColor="Orange" Grid.Row="2" Grid.Column="1" Margin="15"></Label>
+            <Label Text="18,5 - 25" TextColor="Green" Grid.Row="3" Grid.Column="0" Margin="15"></Label>
+            <Label Text="normaali paino " TextColor="Green" Grid.Row="3" Grid.Column="1" Margin="15"></Label>
+            <Label Text="25 - 30" TextColor="Green" Grid.Row="4" Grid.Column="0" Margin="15"></Label>
+            <Label Text="ylipaino eli lievä lihavuus" TextColor="Green" Grid.Row="4" Grid.Column="1" Margin="15"></Label>
+            <Label Text="30 - 35" TextColor="Green" Grid.Row="5" Grid.Column="0" Margin="15"></Label>
+            <Label Text="merkittävä lihavuus" TextColor="Orange" Grid.Row="5" Grid.Column="1" Margin="15"></Label>
+            <Label Text="35 - 40" TextColor="Green" Grid.Row="6" Grid.Column="0" Margin="15"></Label>
+            <Label Text="vaikea lihavuus" TextColor="Red" Grid.Row="6" Grid.Column="1" Margin="15"></Label>
+            <Label Text="yli 40" TextColor="Green" Grid.Row="7" Grid.Column="0" Margin="15"></Label>
+            <Label Text="sairaalloinen lihavuus" TextColor="Red" Grid.Row="7" Grid.Column="1" Margin="15"></Label>
+
+           </Grid>
+             
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
